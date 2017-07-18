@@ -6,7 +6,7 @@
 <body>
 
 About Me
-<p> Natalia Berrios.</p>
+<p>My name is Natalia Berrios.</p>
 
 </body>
 </html>

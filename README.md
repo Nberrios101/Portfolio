@@ -18,6 +18,16 @@ About Me
 
 
 <h> Fun Fact</h>
-I have 8 siblings 
+I have 8 siblings
+
+<h> 7/19/17: Reflection </h>
+
+<p> Similarities b/w Python and Sctratch: Variables, "Definition blocks", and loops are used in a similar way.
+Difference: Python is much more complicated and detail oriented. 
+
+It was very frustrating debugging the code because even the tiniest detail, such as quotations and semicolons that were misplaced, caused the code not to work. Also, trying to figure the issue got complicated especially if your code wasn't organized. However, it was a fun challenge and I enjoyed working with a partner.
+
+
+
 </body>
 </html>
